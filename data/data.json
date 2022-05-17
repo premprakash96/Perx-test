@@ -1,0 +1,11 @@
+{
+    "rewardAuthorizedUser": "edwin+reward-admin-qa-interview@perxtech.com",
+    "rewardAuthorizedPass": "reward_admin",
+    "adminUser": "edwin+admin-qa-interview@perxtech.com",
+    "adminPass": "admin1234",
+    "textFileUpload": "textUpload.txt",
+    "excelFileUpload": "excelUpload.xlsx",
+    "csvFileUpload": "csvUpload.csv",
+    "rewardName": "test",
+    "rewardValidityEnd": "20 June 2022"
+}
